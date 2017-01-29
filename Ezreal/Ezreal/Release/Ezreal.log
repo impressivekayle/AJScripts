@@ -1,9 +1,9 @@
 ﻿  Ezreal.cpp
      Creazione della libreria D:\AJScripts\Ezreal\Release\Ezreal.lib e dell'oggetto D:\AJScripts\Ezreal\Release\Ezreal.exp
   Generazione codice in corso...
-  4 of 10 functions (40.0%) were compiled, the rest were copied from previous compilation.
+  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Generazione codice terminata
   Ezreal.vcxproj -> D:\AJScripts\Ezreal\Release\Ezreal.dll
   Ezreal.vcxproj -> D:\AJScripts\Ezreal\Release\Ezreal.pdb (Full PDB)

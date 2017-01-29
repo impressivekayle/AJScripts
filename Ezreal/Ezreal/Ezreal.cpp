@@ -43,7 +43,7 @@ void Menu()
 
 
 	ComboR = RMenu->CheckBox("Use R", true);
-	ComboRSkillRange = RMenu->AddInteger("Min.Range for R", 0, 5000, 2500);
+	
 	DrawReady = Drawings->CheckBox("Draw only ready spells", true);
 
 	DrawQ = Drawings->CheckBox("Draw Q", true);
